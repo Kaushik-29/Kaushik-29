@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm KAUSHIK KUMAR REDDY S
+# Hi 👋, I'm KAUSHIK KUMAR REDDY S
 
 
 A passionate frontend developer from India
