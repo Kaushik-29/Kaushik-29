@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hi 👋, I'm KAUSHIK KUMAR REDDY S
+A passionate frontend developer from India
 🔭 I’m currently working on Full Stack Development  
 🌱 I’m currently learning React, PHP  
 
